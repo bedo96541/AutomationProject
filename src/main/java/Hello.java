@@ -3,6 +3,9 @@ public class Hello {
         System.out.println("Hello Class EU3");
         // more changes are comings
         // i am ready to commit this
+
+        // EU3 IS AWASOME!!!
+
     }
 
 }
